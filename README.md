@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Mugdha Jiwane , a passionate Full Stack-Developer based in Pune. I thrive on turning ideas into reality through the magic of code and creativity.<br><br>- 🔭 I'm currently student of Dr. D Y Patil Institution of Management and Research (DYPIMR)<br>- 👯 I'm working on Angular in Harbinger Group multinational organization<br>- 🌱 I'm constantly learning and exploring new technologies<br>- 💬 Ask me about anything related to HTML, Tailwind CSS, JavaScript and related technologies.<br>- 📫 How to reach me: jiwanemugdha@gmail.com
+😀 I'm <b>MUGDHA JIWANE</b> , a passionate Full Stack-Developer based in Pune, Maharashtra. <br>I thrive on turning ideas into reality through the magic of code and creativity.<br><br>- 📚 I'm currently a student of Dr. D Y Patil Institution of Management and Research <b>(DYPIMR)</b><br>- 💻 I'm rewriting code using Angular  within the multinational organizationat Harbinger Group<br>- 💯 I'm constantly learning and exploring new technologies<br>- 💬 Ask me about anything related to HTML, Tailwind CSS, JavaScript and related technologies <br>- 📫 Reach me: jiwanemugdha@gmail.com
 
 
 ## 🌐 Socials:
